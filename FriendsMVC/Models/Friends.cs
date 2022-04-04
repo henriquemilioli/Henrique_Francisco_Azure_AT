@@ -20,6 +20,6 @@ namespace FriendsMVC.Models
         public string Email { get; set; }
         
 
-        public List<Friends> FriendsList { get; set; }
+        public List<Fellowship> FellowshipOfTheRing { get; set; }
     }
 }
